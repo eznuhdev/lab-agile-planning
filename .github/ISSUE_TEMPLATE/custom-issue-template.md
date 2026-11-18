@@ -17,6 +17,8 @@ assignees: ''
 
 ### Acceptance Criteria
 
-**Given**  
-**When**  
-**Then**
+```gherkin
+Given 
+When 
+Then
+```
